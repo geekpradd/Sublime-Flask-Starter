@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Flask: Create New App (relative to Open File)",
+        "command": "relativeflask"
+    }
+    ]
